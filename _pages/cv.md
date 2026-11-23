@@ -61,4 +61,5 @@ Teaching
   
 Service and leadership
 ======
+* Reviewer, LCFM 2025 (accepted)
 * Currently signed in to 43 different slack teams
